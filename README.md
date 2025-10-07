@@ -1,6 +1,38 @@
-# send-emails-desk
+# 📧 Send Emails Desk
 
-Um sistema de help-desk interno focado em eficiência, que cria tickets via e-mail. Inclui dashboards de desempenho com análise de SLA, IA para análise de texto, e gestão completa de tickets.
+Um sistema de help-desk desktop completo e eficiente para gerenciamento de tickets via e-mail. Inclui dashboards de desempenho com análise de SLA, IA para análise de texto, e gestão completa de tickets.
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+## 🎯 Visão Geral
+
+Send Emails Desk é uma aplicação desktop completa de help desk que integra:
+
+- ✅ Criação automática de tickets via Gmail
+- 📊 Dashboard com métricas de SLA configuráveis
+- 🤖 Análise de IA para sentimento e sugestões de resposta
+- 👥 Gestão de contatos organizada por cidade
+- 🔍 Busca avançada com múltiplos filtros
+- 📝 Sistema de anotações completo
+- 🔐 Sistema auditável com log de todas operações
+
+## 🚀 Início Rápido
+
+```bash
+# Clone e instale
+git clone https://github.com/SammMartins/send-emails-desk.git
+cd send-emails-desk
+npm install
+
+# Compile e execute
+npm run build
+npm run start
+```
+
+**➡️ Veja o [QUICKSTART.md](QUICKSTART.md) para começar em 5 minutos!**
 
 ## Funcionalidades
 
