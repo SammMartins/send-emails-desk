@@ -5,8 +5,9 @@ node_modules/
 dist/
 build/
 
-# Database
+# Database (exclude all except demo)
 *.db
+!demo-helpdesk.db
 *.db-shm
 *.db-wal
 
