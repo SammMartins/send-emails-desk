@@ -1,0 +1,36 @@
+INFO 2025-10-12 17:29:42,731 autoreload 34143 127499931096896 Watching for file changes with StatReloader
+INFO 2025-10-12 18:04:17,235 autoreload 49576 129424916334400 Watching for file changes with StatReloader
+INFO 2025-10-12 18:04:40,067 autoreload 49790 134316489799488 Watching for file changes with StatReloader
+INFO 2025-10-12 18:04:51,579 autoreload 49934 137909797218112 Watching for file changes with StatReloader
+INFO 2025-10-12 18:06:13,657 autoreload 51951 124952006608704 Watching for file changes with StatReloader
+WARNING 2025-10-12 18:12:53,076 log 51951 124951839372992 Not Found: /
+WARNING 2025-10-12 18:12:53,076 basehttp 51951 124951839372992 "GET / HTTP/1.1" 404 3172
+WARNING 2025-10-12 18:12:54,320 log 51951 124951830980288 Not Found: /favicon.ico
+WARNING 2025-10-12 18:12:54,320 basehttp 51951 124951830980288 "GET /favicon.ico HTTP/1.1" 404 3223
+WARNING 2025-10-12 18:12:59,828 log 51951 124951822587584 Not Found: /
+WARNING 2025-10-12 18:12:59,829 basehttp 51951 124951822587584 "GET / HTTP/1.1" 404 3172
+WARNING 2025-10-12 18:13:05,031 log 51951 124951604491968 Not Found: /
+WARNING 2025-10-12 18:13:05,031 basehttp 51951 124951604491968 "GET / HTTP/1.1" 404 3172
+WARNING 2025-10-12 18:13:09,789 log 51951 124951596099264 Not Found: /
+WARNING 2025-10-12 18:13:09,790 basehttp 51951 124951596099264 "GET / HTTP/1.1" 404 3172
+INFO 2025-10-12 18:14:58,414 autoreload 51951 124952006608704 /workspaces/send-emails-desk/backend/send_emails_desk/urls.py changed, reloading.
+INFO 2025-10-12 18:14:58,924 autoreload 56396 134622977009472 Watching for file changes with StatReloader
+INFO 2025-10-12 18:15:24,798 autoreload 56396 134622977009472 /workspaces/send-emails-desk/backend/send_emails_desk/settings.py changed, reloading.
+INFO 2025-10-12 18:15:25,289 autoreload 56611 123227603076928 Watching for file changes with StatReloader
+INFO 2025-10-12 18:18:31,298 autoreload 58344 126781441554240 Watching for file changes with StatReloader
+INFO 2025-10-12 18:21:49,041 autoreload 60192 137456125462336 Watching for file changes with StatReloader
+INFO 2025-10-12 18:21:55,553 basehttp 60192 137455959275200 "GET / HTTP/1.1" 200 5395
+INFO 2025-10-12 18:22:16,065 basehttp 60192 137455950882496 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-10-12 18:22:17,189 basehttp 60192 137455942489792 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4209
+INFO 2025-10-12 18:22:17,391 basehttp 60192 137455959275200 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2025-10-12 18:22:17,498 basehttp 60192 137455730685632 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-10-12 18:22:17,505 basehttp 60192 137455722292928 "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2025-10-12 18:22:18,194 basehttp 60192 137455722292928 "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+INFO 2025-10-12 18:22:18,235 basehttp 60192 137455959275200 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-10-12 18:22:18,349 basehttp 60192 137455713900224 "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+INFO 2025-10-12 18:22:18,470 basehttp 60192 137455722292928 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-10-12 18:22:22,126 basehttp 60192 137455959275200 "GET / HTTP/1.1" 200 5395
+INFO 2025-10-12 18:22:52,027 autoreload 60192 137456125462336 /workspaces/send-emails-desk/backend/send_emails_desk/views.py changed, reloading.
+INFO 2025-10-12 18:22:52,553 autoreload 60777 136746694756160 Watching for file changes with StatReloader
+INFO 2025-10-12 18:23:03,125 autoreload 60777 136746694756160 /workspaces/send-emails-desk/backend/send_emails_desk/urls.py changed, reloading.
+INFO 2025-10-12 18:23:03,624 autoreload 60893 138686387078976 Watching for file changes with StatReloader
