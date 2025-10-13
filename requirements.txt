@@ -1,0 +1,15 @@
+django>=3.2
+djangorestframework
+celery
+redis
+psycopg2-binary
+python-dotenv
+transformers
+scikit-learn
+django-cors-headers
+python-decouple
+django-filter
+djangorestframework-simplejwt
+whitenoise
+gunicorn
+html2text
